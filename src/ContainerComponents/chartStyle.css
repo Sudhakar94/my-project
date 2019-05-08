@@ -1,0 +1,16 @@
+.barContainer {
+    display: inline-block; 
+    border-bottom: 1px solid #D0D4D5;
+}
+.chartDiv {
+	border-right: 1px solid #D0D4D5;
+}
+.highcharts-credits {
+    display: none;
+}
+.highcharts-legend-item-hidden > span {
+    opacity: 0.5 !important;
+}
+.highcharts-xaxis-labels > text {
+	transform: translate(0, 0) !important;
+}

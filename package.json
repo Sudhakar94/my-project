@@ -1,0 +1,31 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "2.1.8"
+  },
+  "dependencies": {
+    "highcharts": "^7.0.3",
+    "highcharts-react-official": "^2.1.1",
+    "namor": "^1.1.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-highcharts": "^16.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

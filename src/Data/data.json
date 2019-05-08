@@ -1,0 +1,20 @@
+{
+  "data"
+  : [
+  {
+    "name": "Service Jobs",
+    "open": 250,
+    "scheduled": 123
+  },
+  {
+    "name": "Emergency Jobs",
+    "open": 250,
+    "scheduled": 123
+  },
+  {
+    "name": "XXX Jobs",
+    "open": 250,
+    "scheduled": 123
+  }
+]
+}
